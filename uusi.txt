@@ -1,2 +1,6 @@
 afdafafda
+<<<<<<< Updated upstream
 gjg
+=======
+hjhkjhkjh
+>>>>>>> Stashed changes
